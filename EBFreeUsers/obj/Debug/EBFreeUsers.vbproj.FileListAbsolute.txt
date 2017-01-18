@@ -1,0 +1,11 @@
+c:\users\wawixs\documents\visual studio 2015\Projects\EBFreeUsers\bin\Debug\EBFreeUsers.exe.config
+c:\users\wawixs\documents\visual studio 2015\Projects\EBFreeUsers\bin\Debug\EBFreeUsers.exe
+c:\users\wawixs\documents\visual studio 2015\Projects\EBFreeUsers\bin\Debug\EBFreeUsers.pdb
+c:\users\wawixs\documents\visual studio 2015\Projects\EBFreeUsers\bin\Debug\EBFreeUsers.xml
+c:\users\wawixs\documents\visual studio 2015\Projects\EBFreeUsers\obj\Debug\EBFreeUsers.vbprojResolveAssemblyReference.cache
+c:\users\wawixs\documents\visual studio 2015\Projects\EBFreeUsers\obj\Debug\EBFreeUsers.Form1.resources
+c:\users\wawixs\documents\visual studio 2015\Projects\EBFreeUsers\obj\Debug\EBFreeUsers.Resources.resources
+c:\users\wawixs\documents\visual studio 2015\Projects\EBFreeUsers\obj\Debug\EBFreeUsers.vbproj.GenerateResource.Cache
+c:\users\wawixs\documents\visual studio 2015\Projects\EBFreeUsers\obj\Debug\EBFreeUsers.exe
+c:\users\wawixs\documents\visual studio 2015\Projects\EBFreeUsers\obj\Debug\EBFreeUsers.xml
+c:\users\wawixs\documents\visual studio 2015\Projects\EBFreeUsers\obj\Debug\EBFreeUsers.pdb
